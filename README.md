@@ -1,0 +1,2 @@
+# garbage_classification
+基于PaddleClas实现垃圾分类，并转换为inference格式用PaddleHub服务端部署
