@@ -1,0 +1,10 @@
+opencv_python==4.1.1.26
+numpy==1.16.4
+urllib3==1.25.6
+paddlehub==2.0.4
+six==1.15.0
+tqdm==4.36.1
+requests==2.22.0
+scipy==1.3.0
+Pillow==8.2.0
+PyYAML==5.4.1
