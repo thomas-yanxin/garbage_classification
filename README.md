@@ -1,3 +1,10 @@
+百度网盘链接及提取码：  
+
+链接：https://pan.baidu.com/s/1HKpgakNx1hNlOuZJuW6T1w   
+
+提取码：wylx 
+
+
 # 一个垃圾分类项目带你玩转飞桨多个产品（1）
 - 基于PaddleClas实现垃圾分类，导出inference模型并利用PaddleHub Serving进行服务化部署。
 
